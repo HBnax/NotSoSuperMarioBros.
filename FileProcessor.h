@@ -1,7 +1,7 @@
 /*
-Halle Broadnax & Kalin Richardson
-2431044 & 2431656
-broadnax@chapman.edu & kalrichardson@chapman.edu
+Halle Broadnax
+2431044
+broadnax@chapman.edu
 CPSC350 - 04
 PA2 - Not So Mario Bros.
 */
